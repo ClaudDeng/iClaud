@@ -4,7 +4,7 @@
 module.exports = {
     title: 'Claud',
     description: 'Claud\'s 个人笔记 ' ,
-    lastUpdated: '更新时间',
+    lastUpdated: '上次更新',
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }],
         ['meta', { name: 'author', content: 'Claud' }],

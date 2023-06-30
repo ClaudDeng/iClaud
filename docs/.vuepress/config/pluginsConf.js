@@ -23,8 +23,9 @@ module.exports = {
         transformer: (timestamp, lang) => {
           // 不要忘了安装 moment
           // moment.locale(lang)
-          moment.locale('zh-cn')
-          return moment(timestamp).format('LLLL')
+          // moment.locale('zh-cn')
+          // September 4, 1986
+          return moment(timestamp).format('LL') 
         }
       }
 }
