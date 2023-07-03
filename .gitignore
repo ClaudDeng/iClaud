@@ -4,7 +4,6 @@ docs/.vuepress/dist/
 
 #忽略项目编译文件
 
-.gitigonre
 deploy.sh
 yarn-error.log
 yarn.lock

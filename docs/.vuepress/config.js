@@ -8,13 +8,11 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }],
         ['meta', { name: 'author', content: 'Claud' }],
-        ['meta', { name: 'keywords', content: 'Claud,ABAP,CDS,SAP,RAP,BAPI,RFC,UI5,Vuepress' }],
-
+        ['meta', { name: 'keywords', content: 'Claud,ABAP,CDS,SAP,RAP,BAPI,RFC,UI5,Vuepress' }]
       ],
     plugins: pluginsConf,
     themeConfig: {
         nav: navConf
-
     }
 }
 
