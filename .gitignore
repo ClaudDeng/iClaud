@@ -8,5 +8,6 @@ deploy.sh
 yarn-error.log
 yarn.lock
 
-
+#不上传个人账户信息
+secret.js
 
