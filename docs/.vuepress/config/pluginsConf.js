@@ -36,5 +36,10 @@ module.exports = {
     repo: 'iClaud',
     clientId: '61eb248da2c2589810ea',
     clientSecret: '8c2802d2c7483bbc2dfb68cdbf7f5e5faff900fc',
+
+    autoCreateIssue: true,
+    //默认每页显示的评论数
+    perPage: 5,
+    locale: 'zh',
   }
 }

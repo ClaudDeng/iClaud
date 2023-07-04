@@ -27,7 +27,7 @@ module.exports =
             ],
         },
     ],
-    "/200 ABAP/20 飞翔/": [
+    "/200-ABAP/20-飞翔/": [
         {
             title: "20 飞翔11",
             collapsable: true,

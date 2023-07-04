@@ -1,6 +1,6 @@
 ---
 autoGroup-1: 基础语法
-title: ABAP新特性
+title: ABAP新特性2
 ---
 
 # ABAP新特性
@@ -69,6 +69,7 @@ IF sy-subrc  = 0.
 
 ENDIF.
 ~~~
+
 
 
 

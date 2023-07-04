@@ -48,7 +48,7 @@ module.exports = [
     "text": "ABAP",
     "items": [
       { "text": "语法", "link": "/200-ABAP/10-基础语法/" },
-      { "text": "飞翔", "link": "/200 ABAP/20 飞翔/" }
+      { "text": "飞翔", "link": "/200-ABAP/20-飞翔/" }
     ]
   },
   {

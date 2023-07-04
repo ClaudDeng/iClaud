@@ -1,6 +1,6 @@
 ---
 autoGroup-2: ABAPSQL
-title: ABAP CDS
+title: ABAP CDS 2
 ---
 
 
@@ -163,5 +163,3 @@ SELECT *
 ## 5，访问控制
 
 新的关键字[**WITH PRIVILEGED ACCESS**](https://help.sap.com/doc/abapdocu_752_index_htm/7.52/en-US/abapselect_data_source.htm)可以关闭[CDS的访问控制](https://help.sap.com/doc/abapdocu_752_index_htm/7.52/en-US/abencds_access_control_glosry.htm)。
-
-

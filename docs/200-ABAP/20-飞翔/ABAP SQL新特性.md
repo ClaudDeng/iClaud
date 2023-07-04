@@ -1,10 +1,10 @@
 ---
 autoGroup-2: ABAPSQL
-title: ABAP-SQL新特性
+title: ABAP-SQL新特性2
 ---
 
 
-# ABAP SQL新特性2
+# ABAP SQL新特性
 
 
 
@@ -1014,4 +1014,6 @@ SELECT id,
        FROM sap_technical 
        INTO TABLE @DATA(result).
 ~~~
+
+
 
