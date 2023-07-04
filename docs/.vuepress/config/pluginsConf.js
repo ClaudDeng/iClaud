@@ -1,6 +1,7 @@
 
 const moment = require('moment');
-const secret = requere("./secret");
+const secret = require("./secret");
+
 module.exports = {
   'vuepress-plugin-auto-sidebar': {
     // options
@@ -41,5 +42,12 @@ module.exports = {
     perPage: 5,
     locale: 'zh',
   },
-  '@vuepress/back-to-top':{}
+  '@vuepress/back-to-top': true,
+  '@vuepress/medium-zoom': {
+    selector: 'img',
+  },
+  '@vuepress/google-analytics':
+      {
+        'ga': secret.ga // UA-00000000-0
+      }
 }
